@@ -7,8 +7,6 @@ Also, feel free to propose changes and corrections, and to ask questions if some
 
 For information on the group and (neo)huxley servers, please see [here](Dry-lab-servers).
 
-[[_TOC_]]
-
 # Basic rules
 
 - each project should have a **repository**, and a designated **place for raw data and results** which is **backed up** (see below)
